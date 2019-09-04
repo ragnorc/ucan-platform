@@ -39,7 +39,7 @@ const router = new Router({
     // MAIN LAYOUT ROUTES
     // =============================================================================
             path: '',
-            component: () => import('./layouts/main/Main.vue'),
+            component: () => import('./layouts/student/Main.vue'),
             children: [
         // =============================================================================
         // Theme Routes
