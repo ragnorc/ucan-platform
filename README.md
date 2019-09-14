@@ -1,4 +1,4 @@
-# modern
+# UCAN Platform
 
 ## Project setup
 ```
